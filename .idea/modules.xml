@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../barter full stack/client/client/.idea/barter-fire.iml" filepath="$PROJECT_DIR$/../barter full stack/client/client/.idea/barter-fire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/carbon_tracker_group.iml" filepath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/carbon_tracker_group.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/the_brain.iml" filepath="$PROJECT_DIR$/.idea/the_brain.iml" />
     </modules>
   </component>

@@ -1,7 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a7c43db-8e7e-4e79-8b73-c991e0ec2801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/carbon_tracker_group.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/customers/CustomerList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/navigation/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/news/NewsFeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/suppliers/SupplierList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/twitter/TwitterFeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/components/videos/VideoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/constants/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/containers/MainContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/helpers/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/chart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/20e290da45c1d4f5ad2e46e776de7ced.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/20e290da45c1d4f5ad2e46e776de7ced.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/2fe90138e3d4bd4d15116bd4d2249362.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/2fe90138e3d4bd4d15116bd4d2249362.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/7d4b04a1fd944d6468042dac6667d7b3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/7d4b04a1fd944d6468042dac6667d7b3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/7eb64b2ab7643eac845c621f78a17288.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/7eb64b2ab7643eac845c621f78a17288.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/814edb2562b5fd050ba7068df1c2357c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/node_modules/.cache/babel-loader/814edb2562b5fd050ba7068df1c2357c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/CarbonChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/CarbonChart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/Leaderboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/Leaderboard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/ProfilesForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeClan/week_08/Carbon App/carbon_tracker_group-master/carbon_tracker_group/client/src/components/ProfilesForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/the_brain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/the_brain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TheBrain/client/the_brain/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/src/components/App/.App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/src/components/App/.App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/src/components/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/src/components/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/src/components/SaleItems/.SaleItemList.css" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/src/components/SaleItems/.SaleItemList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/src/components/SignIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/src/components/SignIn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barter full stack/client/client/src/constants/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../barter full stack/client/client/src/constants/routes.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../TheBrain/client/the_brain" />
+  </component>
   <component name="ProjectId" id="1RDPjupE4czgtxINqWVTXHa9mWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../TheBrain/client" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a7c43db-8e7e-4e79-8b73-c991e0ec2801" name="Default Changelist" comment="" />
+      <created>1569198831840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569198831840</updated>
+      <workItem from="1569198833657" duration="421000" />
+      <workItem from="1569287127431" duration="677000" />
+      <workItem from="1569331701317" duration="2183000" />
+      <workItem from="1569366747772" duration="2705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

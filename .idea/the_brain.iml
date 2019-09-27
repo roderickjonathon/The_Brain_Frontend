@@ -2,12 +2,14 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/build" />
-      <excludeFolder url="file://$MODULE_DIR$/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../the_brain/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../the_brain/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../the_brain/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../the_brain/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="carbon_tracker_group" />
+    <orderEntry type="module" module-name="barter-fire" />
   </component>
 </module>
