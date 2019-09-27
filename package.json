@@ -2,6 +2,7 @@
   "name": "the_brain",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://0.0.0.0:8080/api",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "html-webpack-plugin": "^3.2.0",
