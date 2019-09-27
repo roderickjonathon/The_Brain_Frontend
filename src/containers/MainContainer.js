@@ -15,8 +15,7 @@ class MainContainer extends Component {
         };
         //binding goes here
     }
-    // How do I want to fetch the data? Do I want separate state for each data? different classes?
-    // Perhaps a news, twitter, customer class etc.
+
 
     componentDidMount() {
            const request = new Request();
