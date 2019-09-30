@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
         <Navigation/>
-
         <h1>Welcome to the Brain!</h1>
         <MainContainer/>
     </div>

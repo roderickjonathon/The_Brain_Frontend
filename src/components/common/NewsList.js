@@ -6,7 +6,7 @@ const NewsList = (props) => {
     if (props.news) {
         return (
             <Fragment>
-                <h1> Fourth News List </h1>
+                <h1> News Feed </h1>
                 {props.news.map((news_item, index) => {
                     return (
                         <div key={index}>
@@ -15,6 +15,12 @@ const NewsList = (props) => {
 
                     )})}
             </Fragment>
+        )
+    } else {
+        return (
+            <div>
+                "No news available at this time"
+            </div>
         )
     }
 
