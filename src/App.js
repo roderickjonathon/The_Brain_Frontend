@@ -2,12 +2,11 @@ import React from 'react';
 import './App.css';
 import Navigation from "./components/Navigation/Navigation";
 import MainContainer from "./containers/MainContainer";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
         <Navigation/>
-        <h1>Welcome to the Brain!</h1>
         <MainContainer/>
     </div>
   );

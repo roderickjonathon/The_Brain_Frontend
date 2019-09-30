@@ -5,11 +5,9 @@ const Navigation = () => (
     <div className="nav">
         <Dropdown>
             <Dropdown.Toggle variant="success" id="dropdown-basic">
-                Menu
+                Select Company
             </Dropdown.Toggle>
             <Dropdown.Menu>
-                <Dropdown.Item href="/home">Home</Dropdown.Item>
-                <br/>
                 <Dropdown.Item href="/beacon">Beacon Purchasing</Dropdown.Item>
                 <br/>
                 <Dropdown.Item href="/fourth">Fourth Hospitality</Dropdown.Item>

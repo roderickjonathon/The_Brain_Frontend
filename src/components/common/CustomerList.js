@@ -1,5 +1,4 @@
 import React, {Fragment} from 'react';
-import divWithClassName from "react-bootstrap/es/utils/divWithClassName";
 
 
 const CustomerList = (props) => {
@@ -13,6 +12,7 @@ const CustomerList = (props) => {
                         return (
                             <div className="customer" key={index}>
                                 {customer.customer_name}
+                            <br />
                             </div>
 
                         )

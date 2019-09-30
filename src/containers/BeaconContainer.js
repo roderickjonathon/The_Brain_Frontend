@@ -5,6 +5,9 @@ import CustomerList from '../components/common/CustomerList';
 import NewsList from '../components/common/NewsList';
 import SuppliersList from '../components/common/SupplierList';
 import TwitterList from '../components/common/TwitterList';
+import ButtonGroup from "react-bootstrap/es/ButtonGroup";
+import Dropdown from "react-bootstrap/Dropdown";
+import Button from "react-bootstrap/Button";
 
 class BeaconContainer extends Component {
 
@@ -39,9 +42,22 @@ class BeaconContainer extends Component {
 
     render(){
         return (
+            <div className="BeaconContainer">
+                <div id="dropdown-container">
+                <Dropdown as={ButtonGroup}>
+                    <Button variant="success">Beacon Purchasing</Button>
+                    <Dropdown.Toggle variant="success" id="dropdown-split-basic" />
+                    <Dropdown.Menu>
+                        <Dropdown.Item href="/beacon/beacon-customers">Customers</Dropdown.Item>
+                        <Dropdown.Item href="/beacon/beacon-suppliers">Suppliers</Dropdown.Item>
+                        <Dropdown.Item href="/beacon/beacon-news">News</Dropdown.Item>
+                        <Dropdown.Item href="/beacon/beacon-tweets">Tweets</Dropdown.Item>
+                    </Dropdown.Menu>
+                </Dropdown>
+                </div>
                 <Router>
                         <Switch>
-                            <div className="BeaconContainer">
+                            <div>
                             <Route exact path="/beacon/beacon-customers" render={(props) => {
                                 return  <CustomerList customers={this.state.customers}/>
                             }}/>
@@ -60,6 +76,9 @@ class BeaconContainer extends Component {
                             </div>
                         </Switch>
                 </Router>
+
+            </div>
+
         )
     }
 }

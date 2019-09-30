@@ -5,7 +5,7 @@ const SupplierList = (props) => {
 
     if (props.suppliers.length > 0) {
         return (
-            <Fragment>]
+            <Fragment>
                 <h1> Suppliers List  </h1>
                 {props.suppliers.map((supplier, index) => {
                     return (

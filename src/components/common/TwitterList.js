@@ -3,7 +3,7 @@ import React, {Fragment} from 'react';
 
 const TwitterList = (props) => {
 
-    if (props.tweets > 0) {
+    if (props.tweets.length > 0) {
         return (
             <Fragment>
                 <h1> Twitter Feed </h1>
@@ -11,6 +11,8 @@ const TwitterList = (props) => {
                     return (
                         <div key={index}>
                             {tweet.serialized_tweet_db.text}
+                            <br />
+                            <br />
                         </div>
 
                     )})}

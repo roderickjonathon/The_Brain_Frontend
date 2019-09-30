@@ -5,6 +5,9 @@ import CustomerList from '../components/common/CustomerList';
 import NewsList from '../components/common/NewsList';
 import SuppliersList from '../components/common/SupplierList';
 import TwitterList from '../components/common/TwitterList';
+import ButtonGroup from "react-bootstrap/es/ButtonGroup";
+import Button from "react-bootstrap/Button";
+import Dropdown from "react-bootstrap/Dropdown";
 
 class FourthContainer extends Component {
 
@@ -39,9 +42,22 @@ class FourthContainer extends Component {
 
     render(){
         return (
+            <div className="FourthContainer">
+                <div id="dropdown-container">
+                <Dropdown as={ButtonGroup}>
+                    <Button variant="success">Fourth Hospitality</Button>
+                    <Dropdown.Toggle variant="success" id="dropdown-split-basic" />
+                    <Dropdown.Menu>
+                        <Dropdown.Item href="/fourth/fourth-customers">Customers</Dropdown.Item>
+                        <Dropdown.Item href="/fourth/fourth-suppliers">Suppliers</Dropdown.Item>
+                        <Dropdown.Item href="/fourth/fourth-news">News</Dropdown.Item>
+                        <Dropdown.Item href="/fourth/fourth-tweets">Tweets</Dropdown.Item>
+                    </Dropdown.Menu>
+                </Dropdown>
+                </div>
             <Router>
                 <Switch>
-            <div className="FourthContainer">
+            <div>
               <Route path="/fourth/fourth-customers" render={(props) => {
                  return <CustomerList customers={this.state.customers}/>
               }}/>
@@ -60,6 +76,8 @@ class FourthContainer extends Component {
             </div>
                 </Switch>
             </Router>
+
+            </div>
         )
     }
 }
